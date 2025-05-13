@@ -10,7 +10,7 @@ def home():
             <style>
                 body {
                     font-family: Arial, sans-serif;
-                    background-color: red;
+                    background-color: orange;
                     color: #333;
                     text-align: center;
                     margin: 0;
